@@ -1,0 +1,16 @@
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\bin\Debug\net5.0\logicAndLoop.exe
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\bin\Debug\net5.0\logicAndLoop.deps.json
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\bin\Debug\net5.0\logicAndLoop.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\bin\Debug\net5.0\logicAndLoop.runtimeconfig.dev.json
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\bin\Debug\net5.0\logicAndLoop.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\bin\Debug\net5.0\ref\logicAndLoop.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\bin\Debug\net5.0\logicAndLoop.pdb
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\ref\logicAndLoop.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.pdb
+C:\Users\LENOVO\RiderProjects\logicAndLoop\logicAndLoop\obj\Debug\net5.0\logicAndLoop.genruntimeconfig.cache

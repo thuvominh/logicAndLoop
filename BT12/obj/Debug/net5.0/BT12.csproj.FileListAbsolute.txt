@@ -1,0 +1,16 @@
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\bin\Debug\net5.0\BT12.exe
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\bin\Debug\net5.0\BT12.deps.json
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\bin\Debug\net5.0\BT12.runtimeconfig.json
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\bin\Debug\net5.0\BT12.runtimeconfig.dev.json
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\bin\Debug\net5.0\BT12.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\bin\Debug\net5.0\ref\BT12.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\bin\Debug\net5.0\BT12.pdb
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.csproj.AssemblyReference.cache
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.AssemblyInfoInputs.cache
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.AssemblyInfo.cs
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\ref\BT12.dll
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.pdb
+C:\Users\LENOVO\RiderProjects\logicAndLoop\BT12\obj\Debug\net5.0\BT12.genruntimeconfig.cache
